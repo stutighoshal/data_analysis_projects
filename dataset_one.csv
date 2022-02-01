@@ -1,0 +1,246 @@
+﻿Series Name,Series Code,Country Name,Country Code,2000 [YR2000],2001 [YR2001],2002 [YR2002],2003 [YR2003],2004 [YR2004],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020]
+A woman can apply for a passport in the same way as a man (1=yes; 0=no),SG.APL.PSPT.EQ,India,IND,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can apply for a passport in the same way as a man (1=yes; 0=no),SG.APL.PSPT.EQ,"Hong Kong SAR, China",HKG,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can apply for a passport in the same way as a man (1=yes; 0=no),SG.APL.PSPT.EQ,Bangladesh,BGD,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can apply for a passport in the same way as a man (1=yes; 0=no),SG.APL.PSPT.EQ,Myanmar,MMR,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can apply for a passport in the same way as a man (1=yes; 0=no),SG.APL.PSPT.EQ,Nepal,NPL,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can apply for a passport in the same way as a man (1=yes; 0=no),SG.APL.PSPT.EQ,Bhutan,BTN,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can be head of household in the same way as a man (1=yes; 0=no),SG.HLD.HEAD.EQ,India,IND,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can be head of household in the same way as a man (1=yes; 0=no),SG.HLD.HEAD.EQ,"Hong Kong SAR, China",HKG,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can be head of household in the same way as a man (1=yes; 0=no),SG.HLD.HEAD.EQ,Bangladesh,BGD,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can be head of household in the same way as a man (1=yes; 0=no),SG.HLD.HEAD.EQ,Myanmar,MMR,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can be head of household in the same way as a man (1=yes; 0=no),SG.HLD.HEAD.EQ,Nepal,NPL,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can be head of household in the same way as a man (1=yes; 0=no),SG.HLD.HEAD.EQ,Bhutan,BTN,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can choose where to live in the same way as a man (1=yes; 0=no),SG.LOC.LIVE.EQ,India,IND,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can choose where to live in the same way as a man (1=yes; 0=no),SG.LOC.LIVE.EQ,"Hong Kong SAR, China",HKG,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can choose where to live in the same way as a man (1=yes; 0=no),SG.LOC.LIVE.EQ,Bangladesh,BGD,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can choose where to live in the same way as a man (1=yes; 0=no),SG.LOC.LIVE.EQ,Myanmar,MMR,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can choose where to live in the same way as a man (1=yes; 0=no),SG.LOC.LIVE.EQ,Nepal,NPL,1,1,1,1,1,1,1,1,1,1,1,0,0,0
+A woman can choose where to live in the same way as a man (1=yes; 0=no),SG.LOC.LIVE.EQ,Bhutan,BTN,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can get a job in the same way as a man (1=yes; 0=no),SG.GET.JOBS.EQ,India,IND,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can get a job in the same way as a man (1=yes; 0=no),SG.GET.JOBS.EQ,"Hong Kong SAR, China",HKG,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can get a job in the same way as a man (1=yes; 0=no),SG.GET.JOBS.EQ,Bangladesh,BGD,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can get a job in the same way as a man (1=yes; 0=no),SG.GET.JOBS.EQ,Myanmar,MMR,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can get a job in the same way as a man (1=yes; 0=no),SG.GET.JOBS.EQ,Nepal,NPL,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can get a job in the same way as a man (1=yes; 0=no),SG.GET.JOBS.EQ,Bhutan,BTN,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can obtain a judgment of divorce in the same way as a man (1=yes; 0=no),SG.OBT.DVRC.EQ,India,IND,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can obtain a judgment of divorce in the same way as a man (1=yes; 0=no),SG.OBT.DVRC.EQ,"Hong Kong SAR, China",HKG,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can obtain a judgment of divorce in the same way as a man (1=yes; 0=no),SG.OBT.DVRC.EQ,Bangladesh,BGD,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can obtain a judgment of divorce in the same way as a man (1=yes; 0=no),SG.OBT.DVRC.EQ,Myanmar,MMR,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can obtain a judgment of divorce in the same way as a man (1=yes; 0=no),SG.OBT.DVRC.EQ,Nepal,NPL,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+A woman can obtain a judgment of divorce in the same way as a man (1=yes; 0=no),SG.OBT.DVRC.EQ,Bhutan,BTN,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can open a bank account in the same way as a man (1=yes; 0=no),SG.OPN.BANK.EQ,India,IND,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can open a bank account in the same way as a man (1=yes; 0=no),SG.OPN.BANK.EQ,"Hong Kong SAR, China",HKG,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can open a bank account in the same way as a man (1=yes; 0=no),SG.OPN.BANK.EQ,Bangladesh,BGD,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can open a bank account in the same way as a man (1=yes; 0=no),SG.OPN.BANK.EQ,Myanmar,MMR,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can open a bank account in the same way as a man (1=yes; 0=no),SG.OPN.BANK.EQ,Nepal,NPL,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can open a bank account in the same way as a man (1=yes; 0=no),SG.OPN.BANK.EQ,Bhutan,BTN,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can register a business in the same way as a man (1=yes; 0=no),SG.BUS.REGT.EQ,India,IND,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can register a business in the same way as a man (1=yes; 0=no),SG.BUS.REGT.EQ,"Hong Kong SAR, China",HKG,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can register a business in the same way as a man (1=yes; 0=no),SG.BUS.REGT.EQ,Bangladesh,BGD,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can register a business in the same way as a man (1=yes; 0=no),SG.BUS.REGT.EQ,Myanmar,MMR,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can register a business in the same way as a man (1=yes; 0=no),SG.BUS.REGT.EQ,Nepal,NPL,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can register a business in the same way as a man (1=yes; 0=no),SG.BUS.REGT.EQ,Bhutan,BTN,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can sign a contract in the same way as a man (1=yes; 0=no),SG.CNT.SIGN.EQ,India,IND,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can sign a contract in the same way as a man (1=yes; 0=no),SG.CNT.SIGN.EQ,"Hong Kong SAR, China",HKG,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can sign a contract in the same way as a man (1=yes; 0=no),SG.CNT.SIGN.EQ,Bangladesh,BGD,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can sign a contract in the same way as a man (1=yes; 0=no),SG.CNT.SIGN.EQ,Myanmar,MMR,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can sign a contract in the same way as a man (1=yes; 0=no),SG.CNT.SIGN.EQ,Nepal,NPL,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can sign a contract in the same way as a man (1=yes; 0=no),SG.CNT.SIGN.EQ,Bhutan,BTN,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,India,IND,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,"Hong Kong SAR, China",HKG,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Bangladesh,BGD,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Myanmar,MMR,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Nepal,NPL,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside her home in the same way as a man (1=yes; 0=no),SG.HME.TRVL.EQ,Bhutan,BTN,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside the country in the same way as a man (1=yes; 0=no),SG.CTR.TRVL.EQ,India,IND,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside the country in the same way as a man (1=yes; 0=no),SG.CTR.TRVL.EQ,"Hong Kong SAR, China",HKG,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside the country in the same way as a man (1=yes; 0=no),SG.CTR.TRVL.EQ,Bangladesh,BGD,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside the country in the same way as a man (1=yes; 0=no),SG.CTR.TRVL.EQ,Myanmar,MMR,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside the country in the same way as a man (1=yes; 0=no),SG.CTR.TRVL.EQ,Nepal,NPL,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can travel outside the country in the same way as a man (1=yes; 0=no),SG.CTR.TRVL.EQ,Bhutan,BTN,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can work at night in the same way as a man (1=yes; 0=no),SG.NGT.WORK.EQ,India,IND,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can work at night in the same way as a man (1=yes; 0=no),SG.NGT.WORK.EQ,"Hong Kong SAR, China",HKG,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can work at night in the same way as a man (1=yes; 0=no),SG.NGT.WORK.EQ,Bangladesh,BGD,0,0,0,0,0,1,1,1,1,1,1,1,1,1
+A woman can work at night in the same way as a man (1=yes; 0=no),SG.NGT.WORK.EQ,Myanmar,MMR,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can work at night in the same way as a man (1=yes; 0=no),SG.NGT.WORK.EQ,Nepal,NPL,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+A woman can work at night in the same way as a man (1=yes; 0=no),SG.NGT.WORK.EQ,Bhutan,BTN,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can work in a job deemed dangerous in the same way as a man (1=yes; 0=no),SG.DNG.WORK.DN.EQ,India,IND,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+A woman can work in a job deemed dangerous in the same way as a man (1=yes; 0=no),SG.DNG.WORK.DN.EQ,"Hong Kong SAR, China",HKG,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can work in a job deemed dangerous in the same way as a man (1=yes; 0=no),SG.DNG.WORK.DN.EQ,Bangladesh,BGD,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can work in a job deemed dangerous in the same way as a man (1=yes; 0=no),SG.DNG.WORK.DN.EQ,Myanmar,MMR,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can work in a job deemed dangerous in the same way as a man (1=yes; 0=no),SG.DNG.WORK.DN.EQ,Nepal,NPL,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can work in a job deemed dangerous in the same way as a man (1=yes; 0=no),SG.DNG.WORK.DN.EQ,Bhutan,BTN,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can work in an industrial job in the same way as a man (1=yes; 0=no),SG.IND.WORK.EQ,India,IND,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can work in an industrial job in the same way as a man (1=yes; 0=no),SG.IND.WORK.EQ,"Hong Kong SAR, China",HKG,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can work in an industrial job in the same way as a man (1=yes; 0=no),SG.IND.WORK.EQ,Bangladesh,BGD,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can work in an industrial job in the same way as a man (1=yes; 0=no),SG.IND.WORK.EQ,Myanmar,MMR,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman can work in an industrial job in the same way as a man (1=yes; 0=no),SG.IND.WORK.EQ,Nepal,NPL,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman can work in an industrial job in the same way as a man (1=yes; 0=no),SG.IND.WORK.EQ,Bhutan,BTN,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman has the same rights to remarry as a man (1=yes; 0=no),SG.REM.RIGT.EQ,India,IND,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman has the same rights to remarry as a man (1=yes; 0=no),SG.REM.RIGT.EQ,"Hong Kong SAR, China",HKG,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman has the same rights to remarry as a man (1=yes; 0=no),SG.REM.RIGT.EQ,Bangladesh,BGD,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A woman has the same rights to remarry as a man (1=yes; 0=no),SG.REM.RIGT.EQ,Myanmar,MMR,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman has the same rights to remarry as a man (1=yes; 0=no),SG.REM.RIGT.EQ,Nepal,NPL,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+A woman has the same rights to remarry as a man (1=yes; 0=no),SG.REM.RIGT.EQ,Bhutan,BTN,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,India,IND,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,"Hong Kong SAR, China",HKG,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Bangladesh,BGD,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Myanmar,MMR,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Nepal,NPL,0,0,0,0,0,28,33,37,42,45,53,58,62,66
+"Access to anti-retroviral drugs, female (%)",SH.HIV.ARTC.FE.ZS,Bhutan,BTN,0,0,0,0,0,18,23,27,35,40,50,56,61,66
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,India,IND,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,"Hong Kong SAR, China",HKG,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Bangladesh,BGD,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Myanmar,MMR,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Nepal,NPL,0,0,0,0,0,23,27,33,39,43,49,54,60,62
+"Access to anti-retroviral drugs, male (%)",SH.HIV.ARTC.MA.ZS,Bhutan,BTN,0,0,0,0,0,6,8,10,15,17,22,27,31,33
+Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,India,IND,..,..,..,..,..,..,..,53.14155197,..,..,79.87532806,..,..,..
+Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,"Hong Kong SAR, China",HKG,..,..,..,..,..,..,..,96.14763641,..,..,95.28325653,..,..,..
+Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,Bangladesh,BGD,..,..,..,..,..,..,..,30.99081802,..,..,50.04691315,..,..,..
+Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,Myanmar,MMR,..,..,..,..,..,..,..,22.78419495,..,..,25.99229813,..,..,..
+Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,Nepal,NPL,..,..,..,..,..,..,..,33.80134964,..,..,45.38557434,..,..,..
+Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,Bhutan,BTN,..,..,..,..,..,..,..,33.66591263,..,..,..,..,..,..
+"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,India,IND,..,..,..,..,..,..,..,43.13261032,..,..,76.63963318,..,..,..
+"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,"Hong Kong SAR, China",HKG,..,..,..,..,..,..,..,96.26568604,..,..,94.7024231,..,..,..
+"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,Bangladesh,BGD,..,..,..,..,..,..,..,26.45328712,..,..,35.83634567,..,..,..
+"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,Myanmar,MMR,..,..,..,..,..,..,..,17.40021515,..,..,25.97871208,..,..,..
+"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,Nepal,NPL,..,..,..,..,..,..,..,31.26650238,..,..,41.60002136,..,..,..
+"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",FX.OWN.TOTL.FE.ZS,Bhutan,BTN,..,..,..,..,..,..,..,27.68187904,..,..,..,..,..,..
+"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,India,IND,..,..,..,..,..,..,..,62.76336288,..,..,83.00899506,..,..,..
+"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,"Hong Kong SAR, China",HKG,..,..,..,..,..,..,..,96.00505066,..,..,95.99282074,..,..,..
+"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,Bangladesh,BGD,..,..,..,..,..,..,..,35.36925507,..,..,64.58615875,..,..,..
+"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,Myanmar,MMR,..,..,..,..,..,..,..,28.59667015,..,..,26.00771141,..,..,..
+"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,Nepal,NPL,..,..,..,..,..,..,..,36.72447968,..,..,49.9813385,..,..,..
+"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",FX.OWN.TOTL.MA.ZS,Bhutan,BTN,..,..,..,..,..,..,..,38.99401855,..,..,..,..,..,..
+"Adjusted net enrollment rate, primary (% of primary school age children)",SE.PRM.TENR,India,IND,83.85499,83.79816,83.6246,88.46232,..,96.98764,97.73768,..,..,..,..,..,..,..
+"Adjusted net enrollment rate, primary (% of primary school age children)",SE.PRM.TENR,"Hong Kong SAR, China",HKG,..,..,..,..,..,99.27739,99.25178,98.96994,98.58053,97.17614,96.54356,96.26568,..,..
+"Adjusted net enrollment rate, primary (% of primary school age children)",SE.PRM.TENR,Bangladesh,BGD,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Adjusted net enrollment rate, primary (% of primary school age children)",SE.PRM.TENR,Myanmar,MMR,89.72516,90.8385,88.72686,90.53915,89.08456,..,..,96.1312,..,..,97.66256,98.0528,..,..
+"Adjusted net enrollment rate, primary (% of primary school age children)",SE.PRM.TENR,Nepal,NPL,72.11046,..,..,79.86805,80.51963,99.91032,..,98.99553,98.34165,98.32872,96.47713,..,96.2984,..
+"Adjusted net enrollment rate, primary (% of primary school age children)",SE.PRM.TENR,Bhutan,BTN,57.64125,60.31058,..,..,..,91.47498,90.94823,..,90.13416,89.71099,89.69917,90.06547,..,..
+"Adjusted net enrollment rate, primary, female (% of primary school age children)",SE.PRM.TENR.FE,India,IND,77.07076,77.7552,78.12586,87.68983,..,97.91645,98.56772,..,..,..,..,..,..,..
+"Adjusted net enrollment rate, primary, female (% of primary school age children)",SE.PRM.TENR.FE,"Hong Kong SAR, China",HKG,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Adjusted net enrollment rate, primary, female (% of primary school age children)",SE.PRM.TENR.FE,Bangladesh,BGD,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Adjusted net enrollment rate, primary, female (% of primary school age children)",SE.PRM.TENR.FE,Myanmar,MMR,88.66937,89.82453,88.2775,90.16079,88.7163,..,..,..,..,..,..,..,..,..
+"Adjusted net enrollment rate, primary, female (% of primary school age children)",SE.PRM.TENR.FE,Nepal,NPL,64.11549,..,..,73.99543,74.78198,..,..,..,..,..,..,..,..,..
+"Adjusted net enrollment rate, primary, female (% of primary school age children)",SE.PRM.TENR.FE,Bhutan,BTN,54.78779,57.79673,..,..,..,92.8337,92.17162,..,91.41402,90.67862,90.30842,90.79405,..,..
+"Adjusted net enrollment rate, primary, male (% of primary school age children)",SE.PRM.TENR.MA,India,IND,89.95597,89.21465,88.54219,89.15205,..,96.1601,96.99684,..,..,..,..,..,..,..
+"Adjusted net enrollment rate, primary, male (% of primary school age children)",SE.PRM.TENR.MA,"Hong Kong SAR, China",HKG,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Adjusted net enrollment rate, primary, male (% of primary school age children)",SE.PRM.TENR.MA,Bangladesh,BGD,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Adjusted net enrollment rate, primary, male (% of primary school age children)",SE.PRM.TENR.MA,Myanmar,MMR,90.77741,91.84845,89.17436,90.91571,89.45076,..,..,..,..,..,..,..,..,..
+"Adjusted net enrollment rate, primary, male (% of primary school age children)",SE.PRM.TENR.MA,Nepal,NPL,79.79181,..,..,85.46931,85.96715,..,..,..,..,..,..,..,..,..
+"Adjusted net enrollment rate, primary, male (% of primary school age children)",SE.PRM.TENR.MA,Bhutan,BTN,60.4271,62.76982,..,..,..,90.15238,89.7579,..,88.89096,88.77117,89.10776,89.35873,..,..
+"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,India,IND,66.837,63.498,60.159,57.039,53.919,28.052,25.077,22.102,19.127,16.152,13.177,12.0708,10.9646,..
+"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,"Hong Kong SAR, China",HKG,4.3656,4.0448,3.724,3.5802,3.4364,3.021,2.9578,2.8946,2.8314,2.7682,2.705,2.6462,2.5874,..
+"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,Bangladesh,BGD,112.2538,109.1354,106.017,103.6338,101.2506,88.605,87.4764,86.3478,85.2192,84.0906,82.962,82.3128,81.6636,..
+"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,Myanmar,MMR,37.878,37.483,37.088,36.2962,35.5044,29.826,29.5626,29.2992,29.0358,28.7724,28.509,28.2066,27.9042,..
+"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,Nepal,NPL,112.9564,108.9132,104.87,101.6756,98.4812,76.069,73.8794,71.6898,69.5002,67.3106,65.121,64.399,63.677,..
+"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,Bhutan,BTN,77.1602,73.1576,69.155,64.9028,60.6506,27.989,26.428,24.867,23.306,21.745,20.184,18.895,17.606,..
+"Age at first marriage, female",SP.DYN.SMAM.FE,India,IND,..,20.2,..,..,..,..,..,..,..,21.4,..,..,..,..
+"Age at first marriage, female",SP.DYN.SMAM.FE,"Hong Kong SAR, China",HKG,..,29.5,..,..,..,..,..,..,..,29.9,..,..,..,..
+"Age at first marriage, female",SP.DYN.SMAM.FE,Bangladesh,BGD,18.8,19.1,..,..,18.7,..,19.2,18.8,..,..,..,..,..,..
+"Age at first marriage, female",SP.DYN.SMAM.FE,Myanmar,MMR,24.8,25.8,..,..,..,..,..,23.6,..,22.9,..,..,..,..
+"Age at first marriage, female",SP.DYN.SMAM.FE,Nepal,NPL,..,19.6,..,..,..,..,..,20.7,..,20.1,..,..,..,..
+"Age at first marriage, female",SP.DYN.SMAM.FE,Bhutan,BTN,..,..,..,..,..,..,..,..,..,..,23.8,..,..,..
+"Age at first marriage, male",SP.DYN.SMAM.MA,India,IND,..,24.8,..,..,..,..,..,..,..,26,..,..,..,..
+"Age at first marriage, male",SP.DYN.SMAM.MA,"Hong Kong SAR, China",HKG,..,31.6,..,..,..,..,..,..,..,32.1,..,..,..,..
+"Age at first marriage, male",SP.DYN.SMAM.MA,Bangladesh,BGD,..,25.3,..,..,25.6,..,..,..,..,..,..,..,..,..
+"Age at first marriage, male",SP.DYN.SMAM.MA,Myanmar,MMR,26.9,..,..,..,..,..,..,26.1,..,25.4,..,..,..,..
+"Age at first marriage, male",SP.DYN.SMAM.MA,Nepal,NPL,..,23,..,..,..,..,..,..,..,23.6,..,..,..,..
+"Age at first marriage, male",SP.DYN.SMAM.MA,Bhutan,BTN,..,..,..,..,..,..,..,..,..,..,26.4,..,..,..
+Age dependency ratio (% of working-age population),SP.POP.DPND,India,IND,64.18037268,63.4281013,62.6032528,61.73157648,60.83920225,54.30784433,53.35426636,52.4483668,51.6434417,50.88813703,50.28963719,49.77516689,49.24524181,48.66462031
+Age dependency ratio (% of working-age population),SP.POP.DPND,"Hong Kong SAR, China",HKG,38.65032181,38.11092688,37.67869486,37.27555663,36.80137473,33.33604353,33.8067862,34.61668733,35.78459352,36.89183871,38.46903456,40.40201217,42.50080813,44.65332928
+Age dependency ratio (% of working-age population),SP.POP.DPND,Bangladesh,BGD,68.95066486,67.84170877,66.67370754,65.4728123,64.26279504,55.82699048,54.71881174,53.57866765,52.39586802,51.26001878,50.09169776,48.95229842,47.91743377,47.01892285
+Age dependency ratio (% of working-age population),SP.POP.DPND,Myanmar,MMR,58.74519404,58.10927629,57.49184967,56.90611463,56.34807553,51.76898498,50.91364776,50.05929804,49.22233655,48.5504768,47.94595555,47.39629505,46.89919277,46.45937889
+Age dependency ratio (% of working-age population),SP.POP.DPND,Nepal,NPL,80.93181806,80.40727678,79.71957477,78.91788435,78.08171011,68.05821832,66.53789173,65.02117229,63.64997207,61.09040584,58.73317372,56.59729147,54.68607966,52.99376863
+Age dependency ratio (% of working-age population),SP.POP.DPND,Bhutan,BTN,77.71276164,75.37769178,72.8872686,70.3161961,67.75182114,53.71412296,52.16897594,50.76224722,49.52598116,48.33534347,47.37155248,46.57240947,45.84321588,45.13615237
+"Age population, age 0, female, interpolated",SP.POP.AG00.FE.IN,India,IND,12449860,12468504,12461035,12436768,12410415,11570601,11202651,10908693,10752206,10780341,10942761,11175670,11385787,11504767
+"Age population, age 0, female, interpolated",SP.POP.AG00.FE.IN,"Hong Kong SAR, China",HKG,20037,18664,17622,16990,16824,22880,22239,22256,23429,26120,29942,34126,37601,39621
+"Age population, age 0, female, interpolated",SP.POP.AG00.FE.IN,Bangladesh,BGD,1630223,1629107,1624217,1614763,1600081,1438966,1441206,1443692,1443110,1437361,1428675,1417619,1405367,1392858
+"Age population, age 0, female, interpolated",SP.POP.AG00.FE.IN,Myanmar,MMR,546338,549943,550988,548957,543453,448626,447542,448242,449622,451951,454999,458037,460160,460738
+"Age population, age 0, female, interpolated",SP.POP.AG00.FE.IN,Nepal,NPL,354769,347251,335922,322796,310695,287813,282702,277921,274085,269841,266363,263786,262307,261980
+"Age population, age 0, female, interpolated",SP.POP.AG00.FE.IN,Bhutan,BTN,7394,7298,7194,7090,6992,6222,6068,5969,5952,6047,6222,6423,6573,6619
+"Age population, age 0, male, interpolated",SP.POP.AG00.MA.IN,India,IND,13836115,13867246,13878211,13870631,13848228,12685558,12320502,12033524,11882501,11913293,12076564,12309129,12518937,12638285
+"Age population, age 0, male, interpolated",SP.POP.AG00.MA.IN,"Hong Kong SAR, China",HKG,22603,20994,19685,18844,18636,27087,25772,25116,25767,28134,31765,35886,39406,41561
+"Age population, age 0, male, interpolated",SP.POP.AG00.MA.IN,Bangladesh,BGD,1696837,1696677,1692784,1683888,1668710,1501604,1504748,1508213,1508193,1502641,1493792,1482283,1469424,1456257
+"Age population, age 0, male, interpolated",SP.POP.AG00.MA.IN,Myanmar,MMR,554790,558488,559777,558045,552765,457197,455812,456395,457875,460502,464061,467679,470259,471041
+"Age population, age 0, male, interpolated",SP.POP.AG00.MA.IN,Nepal,NPL,379995,370709,357343,341961,327489,298688,295460,293383,293763,287256,283178,281266,281251,282894
+"Age population, age 0, male, interpolated",SP.POP.AG00.MA.IN,Bhutan,BTN,7637,7509,7398,7295,7192,6400,6244,6147,6137,6235,6419,6630,6787,6833
+"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,India,IND,26.401,25.944,25.489,25.034,24.571,19.923,19.416,18.984,18.625,18.332,18.083,17.857,17.644,..
+"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,"Hong Kong SAR, China",HKG,8.1,7.2,7.1,6.9,7.2,12.8,8,8.6,8.2,8.3,7.7,7.2,7,..
+"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,Bangladesh,BGD,27.493,26.818,26.132,25.439,24.742,20.245,19.862,19.501,19.156,18.824,18.501,18.184,17.868,..
+"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,Myanmar,MMR,24.588,24.377,24.089,23.72,23.271,18.889,18.544,18.264,18.041,17.861,17.703,17.552,17.397,..
+"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,Nepal,NPL,31.547,30.398,29.236,28.105,27.037,21.879,21.523,21.18,20.844,20.515,20.196,19.887,19.578,..
+"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,Bhutan,BTN,27.066,26.012,25.025,24.113,23.283,18.514,18.201,17.965,17.783,17.625,17.459,17.259,17.012,..
+Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,India,IND,42.5,..,..,..,..,..,..,81.4,..,81.4,..,..,..,..
+Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,"Hong Kong SAR, China",HKG,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,Bangladesh,BGD,12.1,12,..,13.9,13.2,..,36.5,42.1,..,49.8,67.8,52.7,..,..
+Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,Myanmar,MMR,..,57,..,67.5,..,..,..,..,..,60.2,..,..,..,..
+Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,Nepal,NPL,11.9,10.9,..,..,15.8,..,..,55.6,..,58,58,..,..,..
+Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,Bhutan,BTN,27.3,..,..,56.1,..,81,89,89,89,89,97.2,96.2,..,..
+Borrowed any money in the past year (% age 15+),fin23.t.d,India,IND,..,..,..,..,..,..,..,47.78839493,..,..,42.39097977,..,..,..
+Borrowed any money in the past year (% age 15+),fin23.t.d,"Hong Kong SAR, China",HKG,..,..,..,..,..,..,..,67.61818695,..,..,66.35903931,..,..,..
+Borrowed any money in the past year (% age 15+),fin23.t.d,Bangladesh,BGD,..,..,..,..,..,..,..,48.37002563,..,..,36.78842926,..,..,..
+Borrowed any money in the past year (% age 15+),fin23.t.d,Myanmar,MMR,..,..,..,..,..,..,..,42.79917526,..,..,43.87203217,..,..,..
+Borrowed any money in the past year (% age 15+),fin23.t.d,Nepal,NPL,..,..,..,..,..,..,..,59.00065994,..,..,66.07152557,..,..,..
+Borrowed any money in the past year (% age 15+),fin23.t.d,Bhutan,BTN,..,..,..,..,..,..,..,18.38264465,..,..,..,..,..,..
+"Borrowed any money in the past year, female (% age 15+)",fin23.t.d.2,India,IND,..,..,..,..,..,..,..,43.7029686,..,..,38.92264557,..,..,..
+"Borrowed any money in the past year, female (% age 15+)",fin23.t.d.2,"Hong Kong SAR, China",HKG,..,..,..,..,..,..,..,65.99967194,..,..,64.07769012,..,..,..
+"Borrowed any money in the past year, female (% age 15+)",fin23.t.d.2,Bangladesh,BGD,..,..,..,..,..,..,..,46.59680557,..,..,32.87313461,..,..,..
+"Borrowed any money in the past year, female (% age 15+)",fin23.t.d.2,Myanmar,MMR,..,..,..,..,..,..,..,40.81368256,..,..,42.63350677,..,..,..
+"Borrowed any money in the past year, female (% age 15+)",fin23.t.d.2,Nepal,NPL,..,..,..,..,..,..,..,55.51850128,..,..,63.68836212,..,..,..
+"Borrowed any money in the past year, female (% age 15+)",fin23.t.d.2,Bhutan,BTN,..,..,..,..,..,..,..,16.31352615,..,..,..,..,..,..
+"Borrowed any money in the past year, male  (% age 15+)",fin23.t.d.1,India,IND,..,..,..,..,..,..,..,51.71580505,..,..,45.74994659,..,..,..
+"Borrowed any money in the past year, male  (% age 15+)",fin23.t.d.1,"Hong Kong SAR, China",HKG,..,..,..,..,..,..,..,69.57318878,..,..,69.14598846,..,..,..
+"Borrowed any money in the past year, male  (% age 15+)",fin23.t.d.1,Bangladesh,BGD,..,..,..,..,..,..,..,50.08108139,..,..,40.79428101,..,..,..
+"Borrowed any money in the past year, male  (% age 15+)",fin23.t.d.1,Myanmar,MMR,..,..,..,..,..,..,..,44.94268036,..,..,45.27696228,..,..,..
+"Borrowed any money in the past year, male  (% age 15+)",fin23.t.d.1,Nepal,NPL,..,..,..,..,..,..,..,63.01620102,..,..,68.96473694,..,..,..
+"Borrowed any money in the past year, male  (% age 15+)",fin23.t.d.1,Bhutan,BTN,..,..,..,..,..,..,..,20.22496033,..,..,..,..,..,..
+Borrowed for education or school fees (% age 15+),fin22a.14.a,India,IND,..,..,..,..,..,..,..,9.747797966,..,..,..,..,..,..
+Borrowed for education or school fees (% age 15+),fin22a.14.a,"Hong Kong SAR, China",HKG,..,..,..,..,..,..,..,5.439249992,..,..,..,..,..,..
+Borrowed for education or school fees (% age 15+),fin22a.14.a,Bangladesh,BGD,..,..,..,..,..,..,..,5.071298122,..,..,..,..,..,..
+Borrowed for education or school fees (% age 15+),fin22a.14.a,Myanmar,MMR,..,..,..,..,..,..,..,5.725340843,..,..,..,..,..,..
+Borrowed for education or school fees (% age 15+),fin22a.14.a,Nepal,NPL,..,..,..,..,..,..,..,12.72351456,..,..,..,..,..,..
+Borrowed for education or school fees (% age 15+),fin22a.14.a,Bhutan,BTN,..,..,..,..,..,..,..,5.994149208,..,..,..,..,..,..
+"Borrowed for education or school fees, female  (% age 15+)",fin22a.14.a.2,India,IND,..,..,..,..,..,..,..,9.803147316,..,..,..,..,..,..
+"Borrowed for education or school fees, female  (% age 15+)",fin22a.14.a.2,"Hong Kong SAR, China",HKG,..,..,..,..,..,..,..,5.439053059,..,..,..,..,..,..
+"Borrowed for education or school fees, female  (% age 15+)",fin22a.14.a.2,Bangladesh,BGD,..,..,..,..,..,..,..,6.271959782,..,..,..,..,..,..
+"Borrowed for education or school fees, female  (% age 15+)",fin22a.14.a.2,Myanmar,MMR,..,..,..,..,..,..,..,5.586031914,..,..,..,..,..,..
+"Borrowed for education or school fees, female  (% age 15+)",fin22a.14.a.2,Nepal,NPL,..,..,..,..,..,..,..,13.40157509,..,..,..,..,..,..
+"Borrowed for education or school fees, female  (% age 15+)",fin22a.14.a.2,Bhutan,BTN,..,..,..,..,..,..,..,5.966462612,..,..,..,..,..,..
+"Borrowed for education or school fees, male  (% age 15+)",fin22a.14.a.1,India,IND,..,..,..,..,..,..,..,9.694589615,..,..,..,..,..,..
+"Borrowed for education or school fees, male  (% age 15+)",fin22a.14.a.1,"Hong Kong SAR, China",HKG,..,..,..,..,..,..,..,5.439487934,..,..,..,..,..,..
+"Borrowed for education or school fees, male  (% age 15+)",fin22a.14.a.1,Bangladesh,BGD,..,..,..,..,..,..,..,3.912734509,..,..,..,..,..,..
+"Borrowed for education or school fees, male  (% age 15+)",fin22a.14.a.1,Myanmar,MMR,..,..,..,..,..,..,..,5.87573719,..,..,..,..,..,..
+"Borrowed for education or school fees, male  (% age 15+)",fin22a.14.a.1,Nepal,NPL,..,..,..,..,..,..,..,11.94159126,..,..,..,..,..,..
+"Borrowed for education or school fees, male  (% age 15+)",fin22a.14.a.1,Bhutan,BTN,..,..,..,..,..,..,..,6.018801212,..,..,..,..,..,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,India,IND,46.71057595,..,..,..,..,..,..,..,28.2602532,..,..,..,24.16618437,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,"Hong Kong SAR, China",HKG,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,Bangladesh,BGD,50.24665306,..,..,..,..,..,..,..,28.80766308,..,..,..,22.61283722,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,Myanmar,MMR,43.7772856,..,..,..,..,..,..,..,25.9983771,..,..,..,21.59729881,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,Nepal,NPL,57.93932488,..,..,..,..,..,..,..,27.52665986,..,..,..,24.82083296,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,Bhutan,BTN,40.66931241,..,..,..,..,..,..,..,21.48065955,..,..,..,18.21093733,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 0-4 (% of population ages 0-4)",SH.DTH.COMM.0004.ZS,India,IND,89.10228311,..,..,..,..,..,..,..,85.00733936,..,..,..,85.10062506,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 0-4 (% of population ages 0-4)",SH.DTH.COMM.0004.ZS,"Hong Kong SAR, China",HKG,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 0-4 (% of population ages 0-4)",SH.DTH.COMM.0004.ZS,Bangladesh,BGD,88.40525307,..,..,..,..,..,..,..,82.33756175,..,..,..,81.84248369,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 0-4 (% of population ages 0-4)",SH.DTH.COMM.0004.ZS,Myanmar,MMR,85.16716882,..,..,..,..,..,..,..,79.66569606,..,..,..,80.20508675,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 0-4 (% of population ages 0-4)",SH.DTH.COMM.0004.ZS,Nepal,NPL,88.02437443,..,..,..,..,..,..,..,80.96800518,..,..,..,79.69193845,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 0-4 (% of population ages 0-4)",SH.DTH.COMM.0004.ZS,Bhutan,BTN,84.05713161,..,..,..,..,..,..,..,77.69336796,..,..,..,77.1193364,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 0-4, female (% of female population ages 0-4)",SH.DTH.COMM.0004.FE.ZS,India,IND,88.84005915,..,..,..,..,..,..,..,84.67598434,..,..,..,84.77113443,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 0-4, female (% of female population ages 0-4)",SH.DTH.COMM.0004.FE.ZS,"Hong Kong SAR, China",HKG,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 0-4, female (% of female population ages 0-4)",SH.DTH.COMM.0004.FE.ZS,Bangladesh,BGD,88.33661772,..,..,..,..,..,..,..,82.47381451,..,..,..,82.02450393,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 0-4, female (% of female population ages 0-4)",SH.DTH.COMM.0004.FE.ZS,Myanmar,MMR,85.30619688,..,..,..,..,..,..,..,79.86938492,..,..,..,80.86097534,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 0-4, female (% of female population ages 0-4)",SH.DTH.COMM.0004.FE.ZS,Nepal,NPL,87.54092285,..,..,..,..,..,..,..,80.21532218,..,..,..,79.03683194,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 0-4, female (% of female population ages 0-4)",SH.DTH.COMM.0004.FE.ZS,Bhutan,BTN,83.73929418,..,..,..,..,..,..,..,77.27646425,..,..,..,76.63032726,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 0-4, male (% of male population ages 0-4)",SH.DTH.COMM.0004.MA.ZS,India,IND,89.36393335,..,..,..,..,..,..,..,85.32986439,..,..,..,85.41114225,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 0-4, male (% of male population ages 0-4)",SH.DTH.COMM.0004.MA.ZS,"Hong Kong SAR, China",HKG,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 0-4, male (% of male population ages 0-4)",SH.DTH.COMM.0004.MA.ZS,Bangladesh,BGD,88.46562792,..,..,..,..,..,..,..,82.22265506,..,..,..,81.69163211,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 0-4, male (% of male population ages 0-4)",SH.DTH.COMM.0004.MA.ZS,Myanmar,MMR,85.05043587,..,..,..,..,..,..,..,79.50141321,..,..,..,79.68526765,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 0-4, male (% of male population ages 0-4)",SH.DTH.COMM.0004.MA.ZS,Nepal,NPL,88.45365842,..,..,..,..,..,..,..,81.5977447,..,..,..,80.22433497,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions, ages 0-4, male (% of male population ages 0-4)",SH.DTH.COMM.0004.MA.ZS,Bhutan,BTN,84.33180479,..,..,..,..,..,..,..,78.0272235,..,..,..,77.50862351,..
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Data from database: Gender Statistics,,,,,,,,,,,,,,,,,
+Last Updated: 12/18/2021,,,,,,,,,,,,,,,,,
